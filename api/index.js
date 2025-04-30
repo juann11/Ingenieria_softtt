@@ -23,6 +23,4 @@ app.post(
     }
 );
 
-//crea una peticion POST
-
 
